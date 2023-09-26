@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>What is HyperText</h1>
+    <p>Hypertext is text which is not constrained to be linear.</p>
+    <p>Hypertext is text which contains <a href="WWW">links</a> to other texts.The term was coined by <a href="hypertext">Ted Nelson</a> around 1965 (see <a href="RC">History)</a> </p>
+    <p>HyperMedia is a term used for hypertext which is not constrained to be text: it can include graphics, video and <a href="">sound</a> for example. Apparently Ted Nelson was the first to use this term too.</p>
+    <p>Hypertext and HyperMedia are concepts, not products.</p>
+    <p>See also:</p>
+    <ul>  
+
+<li>
+
+    <p><a href="WWW">A list of terms</a> used in hypertext litterature.</p>
+
+<li>
+
+    <a href="INET93">Conferences</a> <br>
+    <br>
+   
+   <li>
+   
+    <a href="MIME">Commerical (and academic)products </a> <br>
+   <li>
+    <p>A newsgroup on hypertext, <a href="What's out there?"> "alt.hypertext".</a></p>
+    <li> 
+     <p> <a href="hypermedia">WorldWideWeb is a project</a> which uses hypertext concepts. </p>
+   <li>
+     <a href="naming">Standards</a>
+    
+        
+
+
+
+
+
+    </p>
+</body>
+</html>
